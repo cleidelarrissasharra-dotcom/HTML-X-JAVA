@@ -1,0 +1,6 @@
+{
+  "name": "Conexão HTML e JavaScript",
+  "description": "Um playground interativo que demonstra a manipulação do DOM e a conexão de elementos HTML com o JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
